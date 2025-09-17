@@ -24,6 +24,7 @@ I participated in the creation of an internal platform to manage essential compa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JLucasBS&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLucasBS&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
